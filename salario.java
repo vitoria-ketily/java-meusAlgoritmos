@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class andTeste{
+public class salario{
     public static Scanner leia=new Scanner(System.in);
     public static void main(String args[]){
         float qtdAnos ,horasT ,valorHora ,salarioF, salario;

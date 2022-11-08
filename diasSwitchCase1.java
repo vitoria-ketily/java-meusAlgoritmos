@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercicioSwitchCase1 {
+public class diasSwitchCase1 {
     public static Scanner leia=new Scanner(System.in);
     public static void main(String args[]){
         int dia;

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercicioElseIf {
+public class ElseIf1 {
     public static Scanner leia=new Scanner(System.in);
     public static void main(String args[]){
         int valor1;

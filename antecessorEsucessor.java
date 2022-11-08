@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class q3TD1{
+public class antecessorEsucessor{
     public static Scanner leia=new Scanner(System.in);
     public static void main(String args[]){
     	int numero;

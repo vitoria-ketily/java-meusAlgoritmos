@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercicioSwitchCase2 {
+public class mesesSwitchCase2 {
     public static Scanner leia=new Scanner(System.in);
     public static void main(String args[]){
         int mes;
